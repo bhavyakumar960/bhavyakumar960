@@ -37,15 +37,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavyakumar960&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+## 📊 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhavyakumar960&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyakumar960&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=bhavyakumar960&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
 
 ---
 
