@@ -25,11 +25,11 @@
 
 **Frameworks & Microservices**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=icinga&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=icinga&logoColor=white)
 
 **Data & Infra**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **Tools**
 
@@ -47,6 +47,7 @@
 
 | Project | What it does | Tech |
 |---|---|---|
+| **[RepoLens — Code Intelligence & RAG MCP Server](https://github.com/bhavyakumar960/RepoLens)** | Spring AI MCP server that gives LLMs deep understanding of large Java codebases — hybrid semantic (vector) + structural (graph) retrieval with adaptive query routing | Spring Boot 3, Spring AI, Qdrant, Neo4j, Ollama |
 | **[Microservice using API Gateway](https://github.com/bhavyakumar960/Microservice-using-api-gateway)** | Routing and single entry-point for microservices via Spring Cloud Gateway | Java, Spring Cloud |
 | **[Eureka Service Registry](https://github.com/bhavyakumar960/Using-Eureka-Service-Registry)** | Service discovery and registration for a microservice setup | Java, Spring Cloud |
 | **[Cloud Config Server](https://github.com/bhavyakumar960/cloud-config-server)** | Centralized externalized config for distributed services | Java, Spring Cloud Config |
